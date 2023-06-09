@@ -1,0 +1,13 @@
+/* TEAM */
+    AUTHOR: Firas CHAIB
+    SITE: https://not1cyyy.github.io/
+    TWITTER: @not1cyyy
+    LOCATION: Algeria
+                            
+/* SITE */                         
+    Last update: 2018/08/07                          
+    HTML5, CSS3, JavaScript
+    SASS
+    jQuery, Particles.js, ScrollReveal.js
+    GitHub Pages                      
+    Visual Studio Code
