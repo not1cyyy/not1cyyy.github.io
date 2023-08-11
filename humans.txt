@@ -5,7 +5,7 @@
     LOCATION: Algeria
                             
 /* SITE */                         
-    Last update: 2018/08/07                          
+    Last update: 2023/08/07                          
     HTML5, CSS3, JavaScript
     SASS
     jQuery, Particles.js, ScrollReveal.js
